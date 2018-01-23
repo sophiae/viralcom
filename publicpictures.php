@@ -56,7 +56,6 @@
             }
             mysqli_close($db);
         ?>
-
         </table>
     </body>
 </html>
